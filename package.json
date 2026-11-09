@@ -2,11 +2,13 @@
   "name": "my-blog-backend",
   "version": "1.0.0",
   "description": "My Blog Backend using Node.js and Express",
-  "main": "index.js",
+  "main": "index.jss",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.jss"
   },
   "dependencies": {
+
     "express": "^4.21.2"
   }
 }
+
